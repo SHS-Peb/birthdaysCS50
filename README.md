@@ -1,4 +1,4 @@
-# Birthdays Project
+# Birthdays Project CS50
 
 A simple Flask web app that stores and displays people's birthdays using a SQLite database.
 
